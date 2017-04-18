@@ -8,19 +8,30 @@ h1 {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #fff;
 	margin-top: 10%;
-	margin-left: 38%;
+	text-align: center;
 }
 
 input {
 	font-family: 'Source Sans Pro', sans-serif;
 	color: #3a485f;
-	margin-left: 39%;
-
+	text-align: center;
+	margin-left: 41%;
 }
 
 p {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 10px;
 	color: #fff;
-	margin-left: 30%;
+	margin-left: 33%;
+}
+
+#results {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #e6493c;
+	font-size: 10px;
+	text-align: center;
+}
+
+.success {
+	color:white;
 }
